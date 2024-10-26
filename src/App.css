@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  list-style: none;
+  transition: .4s ease-in;
+}
+
+.section {
+  max-width: 1300px;
+  margin: 0 auto;
+}
